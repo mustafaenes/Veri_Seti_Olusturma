@@ -13,5 +13,5 @@ Topic 2'ye baktığımızda konu başlığının tarım ve spor alanında maddi 
 
 
 
-Öğrenci Adı : Mustafa Enes Saatçi - 193405054
+Öğrenci Adı : Mustafa Enes Saatçi - 193405054 ///
 Öğrenci Adı : Gülnur Korkmaz - 203405046
