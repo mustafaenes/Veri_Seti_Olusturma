@@ -1,4 +1,4 @@
-# Veri_Seti_Olusturma
+# Veri Seti Olusturma ve Modelleme
    Bu topladığımız veri setindeki amacımız tweetlerini aldığımız Twitter hesabının genellikle hangi konular üzerinde konuştuğunu belirleyebilmek ve bu konu başlıklarını grafiklere bölerek gösterebilmektir.
 
    Bu tabloyu oluşturabilmek için öncelikle veri almak istediği Twitter hesabından 2000 tane tweeti bir csv dosyasına kaydettik.Daha sonrasında konu başlığını tweet contentinden belirlemek istediğimiz için Content sütununu yeni bir csv dosyasına kaydettik. Bu sayede ihtiyacımız olmayan diğer sütunlardan(likecount,url,replycount,...) kurtulduk. Content sütununu csv dosyasına kaydettikten sonra veri setimizi temizlemek için "re" kütüphanesini kullanarak boşluklardan,urllerden,sayılardan ve çeşitli noktalama işaretlerinden arındırmış olduk.Sonrasında ise temizlemiş olduğumuz veri setini clean adındaki yeni bir sütuna kaydettik ve bu clean sütununu yeni bir csv dosyasına kaydettik.Böylelikle veri setimizi temizlemiş olduk.
